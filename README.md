@@ -1,18 +1,3 @@
-# Hi there 👋
-
-My name's Ethan
-
-- 👨‍🎓 I'm studying computer science at Aix-en-Provence, France 🇫🇷.
-- ⚡ Fun fact: ...
-
-#### Contacts
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ethan-testa-54015415b/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   <a/>
-</div>
-
-
 <h1 align="center"><b>Hi , I'm Ethan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -32,7 +17,7 @@ My name's Ethan
 
 <br>
 
-- A passionate Back-end developer
+- A passionate Software Developer
 - Currently studying at [CESI Engineering School](https://www.cesi.fr/) in France
 - Working at [SmartTrade Technologies](https://smart-trade.net/) in apprenticeship
 
@@ -46,7 +31,10 @@ My name's Ethan
 <p align="center">
 
 - **Languages**:
-    ![Java]()
+  
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+    ![PHP](https://img.shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -62,11 +50,25 @@ My name's Ethan
 <br>
 
 - **Softwares and Tools**:
-    ![Eclipse]()
+  
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  
+    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
+    ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+  
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
+<br>   
+    
+- **Soft-Skills**:
+
+   ![Teamwork](https://img.shields.io/badge/Teamwork-ffffff?style=for-the-badge)
+   ![Agility](https://img.shields.io/badge/Agility-ffffff?style=for-the-badge)
+   ![Autonomy](https://img.shields.io/badge/Autonomy-ffffff?style=for-the-badge)
 
 </p>
 
@@ -83,9 +85,9 @@ My name's Ethan
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/EthanTESTA/">
+  <img src="https://github-readme-stats.vercel.app/api?username=EthanTESTA&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanTESTA&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 </a>
 </div>
@@ -99,8 +101,8 @@ My name's Ethan
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="" width ="80">
-<br>
+## <b> Let's Connect..!</b>
+<img src="https://imgs.search.brave.com/DvLDl78b4LKb4fEgWef6VeoEx_LxEmxAKMVguj0kzyE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZW1vamlhbGwuY29t/L2ltYWdlcy9hbmlt/YXRpb25zL2pveXBp/eGVscy8xMjhweC9o/YW5kc2hha2UuZ2lm.gif" width ="80">
 <div align='left'>
 
 <ul>

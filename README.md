@@ -108,7 +108,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="https://www.linkedin.com/in/ethan-testa-54015415b/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  ethantesta-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
